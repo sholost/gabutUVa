@@ -1,2 +1,2 @@
 # gabutUVa
-buat ingat-ingat lagi c++
+warming up 
